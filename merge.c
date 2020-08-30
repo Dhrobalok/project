@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 
 int i,j=0,k=0,l,m,u=0;
@@ -112,3 +113,6 @@ int main()
   //divide();
 
 }
+=======
+printf("bhvhvb\n");
+>>>>>>> branchA

@@ -19,7 +19,7 @@
     overflow-x: hidden !important;
 } */
 
-#myTable_filter
+#mytable_filter
 {
     float: right !important;
 }
